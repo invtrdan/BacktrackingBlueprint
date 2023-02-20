@@ -1,2 +1,2 @@
 # BacktrackingBlueprint
-A tem[laye for solving backtracking problems.
+A template for solving backtracking problems.
